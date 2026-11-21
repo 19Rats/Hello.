@@ -1,6 +1,8 @@
 # Hey-it-s-me-it-s-Verity
 <div align="center">
 
-![image alt](https://github.com/19Rats/Hey-it-s-me-it-s-Verity/blob/816d8dffbaf15423cd01d9ae2bed3674085fbc91/another-pursuer.png)
+
+<img width="735" height="525" alt="another-pursuer" src="https://github.com/user-attachments/assets/c1f5df19-a1a8-4d94-9ca8-edfdc0e22572" />
 
 </div>
+
